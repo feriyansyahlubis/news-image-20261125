@@ -11,9 +11,9 @@ Wednesday, 25 November 2026, in a single 1024×1024 image — made for the
 ## The day in one image
 
 **Lead story — Tankers ablaze in the Strait of Hormuz.** Iran says naval
-mines set oil tankers on fire in the world's busiest oil lane; Washington
-says the main shipping routes are clear — but Tehran warns the strait will
-grow "more closed day by day".
+mines set oil tankers on fire in the world's busiest oil lane. A fourth was
+hit Tuesday — claims Reuters could not verify — as Tehran warns the strait
+will grow "more closed day by day".
 
 Also on the front page:
 
@@ -23,13 +23,15 @@ Also on the front page:
 - **Markets** — AI rally reverses as Nvidia sinks 6%; the Nasdaq fell 1.5%
   a day after Nvidia's 31.5% surge, as Washington is reported to be
   preparing new tariffs.
-- **Technology** — Microsoft declares "Code Red" after its worst-ever
-  24-hour outage knocked out Outlook, Teams and Copilot.
+- **Technology** — Microsoft declares "Code Red" after a 24-hour outage —
+  the worst in Exchange Online history — knocked out Outlook, Teams and
+  Copilot; Microsoft sets a one-hour recovery target for future failures.
 - **Gaza** — Hamas security chief Naeem Abu Nahel killed in an Israeli
   airstrike on Gaza City.
-- **Yemen** — Houthi drone hits Riyadh's tallest tower; 11 people wounded.
-- **Ukraine** — Kyiv confirms its drones hit a Russian cargo ship in the
-  Gulf of Finland.
+- **Yemen** — Houthi drone hits Riyadh's tallest tower for the second time
+  in days; 11 people wounded.
+- **Ukraine** — Kyiv confirms its drones hit the Russian cargo ship
+  Sparta II in the Gulf of Finland.
 - **Also today** — GTA 6 draws 39 million PS5 players in four days; AIDS
   deaths fall to 570,000 in 2025, the lowest in 20+ years; the CIA and the
   ODNI suffer a breach of unclassified data.
